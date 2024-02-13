@@ -1,5 +1,7 @@
 # thinkpad_battery_tool
 
+![BANNER](https://github.com/Patan98/thinkpad_battery_tool/assets/159428129/351615ea-05e8-41e4-8083-7dfa10f5de36)
+
 ## Thinkpad battery tool
 Simple bash script with zenity interface to manage battery information. <br />
 Zenity is required for proper operation. <br />
