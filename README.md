@@ -18,3 +18,5 @@ To launch the GUI you can run the script with -g argument and keep track of batt
 As soon as a battery is inserted during use you will receive a notification. <br />
 If it is a new battery and is not yet in the database you will be asked if you want to add it to the database, and you will be asked to assign it a "nickname" (this also works if the battery is already plugged at system startup). <br />
 If the battery is added as a primary battery it will be added to the top of the database. <br />
+<br />
+It is obviously recommended to start the script at boot with systemd or with the tools that your system supports. <br />
