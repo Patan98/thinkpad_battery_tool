@@ -13,7 +13,7 @@ Some models supports hot-swap ultrabay battery (like 45N1041). <br />
 Some models supports hot-swap slice batteries (like 40Y7625). <br />
 
 ## Usage
-To launch the script in the background and make it work, you can run the script with -m and let it run in monitor mode.  <br />
+To launch the script in the background and make it work, you can run the script with -m (monitor mode).  <br />
 To launch the GUI you can run the script with -g argument and keep track of battery health and serial numbers. <br />
 As soon as a battery is inserted during use you will receive a notification. <br />
 If it is a new battery and is not yet in the database you will be asked if you want to add it to the database, and you will be asked to assign it a "nickname" (this also works if the battery is already plugged at system startup). <br />
